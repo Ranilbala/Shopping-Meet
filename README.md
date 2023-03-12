@@ -1,7 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/29287671/97078166-ba3bde80-1607-11eb-9a4e-7d5e223e7d58.png)
-<h1 align="center">
- Shopping Meet
-</h1>
+
+# Shopping Meet
 
 # Myntra HackerRamp:
 ## 📜 Description:
@@ -34,8 +33,9 @@ https://drive.google.com/file/d/1ByTqb4my9SU6TQ8Aln1uG-t1F50G3o6l/view?usp=shari
 
 
 ## 👦Developed By
-- [@ShreeChandanReddy](https://github.com/ShreeChandanReddy-9)
 - [@Ranilbala](https://github.com/Ranilbala)
+- [@ShreeChandanReddy](https://github.com/ShreeChandanReddy-9)
+
 
 
 
